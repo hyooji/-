@@ -8314,4 +8314,8 @@ a > img.fh5co-align-center {
   margin-right: auto;
 }
 
+#mobile img {
+  transform: translate3d(0, 0, 0);
+}
+
 /*# sourceMappingURL=style.css.map */
