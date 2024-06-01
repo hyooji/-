@@ -1,7 +1,3 @@
-
-TITLE: 
-HYUJII
-
 CREDITS:
 
 Bootstrap
